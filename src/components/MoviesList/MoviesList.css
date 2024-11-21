@@ -1,0 +1,15 @@
+.movies__list {
+  display: flex;
+  gap: 36px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  width: 1010px;
+}
+
+@media (max-width: 950px) {
+  .movies__list {
+    width: 388px;
+  }
+}

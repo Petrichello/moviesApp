@@ -1,0 +1,9 @@
+.movies__list--rated {
+  display: flex;
+  gap: 36px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  width: 1010px;
+}
